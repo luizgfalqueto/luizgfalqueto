@@ -6,6 +6,6 @@
 
 1. You can check my Instagram [Here](https://www.instagram.com/luizgfalqueto/) 
 
-1. You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/) | 
+1. You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/) 
 
 
