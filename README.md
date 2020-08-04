@@ -1,11 +1,9 @@
-#### Luiz Gustavo Falqueto
+<h1 align="center">Luiz Gustavo Falqueto</h1>
 
-:wave: Hi there! I'm **computer science student** at **Centro Universitário Norte do Espírito Santo (CEUNES/UFES)**.
+<p align="center">:wave: Hi there! I'm **computer science student** at **Centro Universitário Norte do Espírito Santo (CEUNES/UFES)**.</p>
 
-:open_book: Always learning!
+<p align="center">:open_book: Always learning!.</p>
 
-1. You can check my Instagram [Here](https://www.instagram.com/luizgfalqueto/) 
+<p align="center">1. Visit my Instagram [Here](https://www.instagram.com/luizgfalqueto/).</p>
 
-1. You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/) 
-
-
+<p align="center">1. You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/).</p>
