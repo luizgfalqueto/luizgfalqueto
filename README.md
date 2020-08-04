@@ -4,6 +4,6 @@
 
 <p align="center">:open_book: Always learning!.</p>
 
-<p align="center"> Visit my Instagram [Here](https://www.instagram.com/luizgfalqueto/).</p>
+Visit my Instagram [Here](https://www.instagram.com/luizgfalqueto/)
 
-<p align="center"> You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/).</p>
+You can check my LinkedIn [Here](https://www.instagram.com/luizgfalqueto/)
