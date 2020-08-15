@@ -4,5 +4,13 @@
 
 <p align="center">:open_book: Always learning!.</p>
 
-[![logo-instagram](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-instagram.png)](https://instagram.com/luizgfalqueto)
-[![logo-linkedin](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-linkedin.png)](https://linkedin.com/luizgfalqueto)
+---
+### Acesse minhas redes sociais:
+                 
+* [![logo-instagram](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-instagram.png)/luizgfalqueto](https://instagram.com/luizgfalqueto)
+
+* [![logo-linkedin](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-linkedin.png)/luizgfalqueto](https://linkedin.com/in/luizgfalqueto)
+
+* [![logo-facebook](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-facebook.png)/luizgustavo.falquetobaptista](https://www.facebook.com/luizgustavo.falquetobaptista)
+
+
