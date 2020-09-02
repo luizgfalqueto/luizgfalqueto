@@ -5,12 +5,8 @@
 <p align="center">:open_book: Always learning!.</p>
 
 ---
-### Acesse minhas redes sociais:
-                 
-* [![logo-instagram](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-instagram.png)/luizgfalqueto](https://instagram.com/luizgfalqueto)
-
-* [![logo-linkedin](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-linkedin.png)/luizgfalqueto](https://linkedin.com/in/luizgfalqueto)
-
-* [![logo-facebook](https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/icone-facebook.png)/luizgustavo.falquetobaptista](https://www.facebook.com/luizgustavo.falquetobaptista)
-
-
+<p align="center">
+  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/instagram.png" alt="Instagram" align="center" hspace="15px">
+  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/linkedin.png" alt="linkedin" align="center" hspace="15px">
+  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/facebook.png" alt="facebook" align="center">
+</p>
