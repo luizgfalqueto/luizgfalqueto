@@ -1,12 +1,13 @@
-<h1 align="center">Luiz Gustavo Falqueto</h1>
 
-<p align="center">:wave: Hi there! I'm computer science student at Centro Universitário Norte do Espírito Santo (CEUNES/UFES).</p>
+### Hi there! I'm Luiz
 
-<p align="center">:open_book: Always learning!.</p>
+### I'm computer science student at Centro Universitário Norte do Espírito Santo (CEUNES/UFES).
+
+<p>:open_book: <b>Always learning!<b/>.</p>
 
 ---
-<p align="center">
-  [<img alt="luizgfalqueto" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg">][instagram]
-  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/linkedin_icon.png" alt="linkedin" align="center" hspace="15px">
-  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/facebook_icon.png" alt="facebook" align="center">
-</p>
+  * Connect with me on:<br/><br/>
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg" width="22px">](https://www.instagram.com/luizgfalqueto)
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/linkedin.svg" width="22px">](https://www.linkedin.com/in/luizgfalqueto/)
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/facebook.svg" width="22px">](https://www.facebook.com/luizgustavo.falquetobaptista/)
+  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/twitter.svg" width="22px">](https://www.twitter.com/FalquetoLuiz/)
