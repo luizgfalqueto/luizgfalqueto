@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/instagram_icon.png" alt="Instagram" align="center" hspace="15px">
+  [<img alt="luizgfalqueto" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg">][instagram]
   <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/linkedin_icon.png" alt="linkedin" align="center" hspace="15px">
   <img src="https://github.com/luizgfalqueto/luizgfalqueto/blob/master/icons/facebook_icon.png" alt="facebook" align="center">
 </p>
