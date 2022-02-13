@@ -1,29 +1,48 @@
-
 ### 👋 Hi! I'm Luiz Gustavo Falqueto
 #### 👨‍💻 I'm computer science student at Centro Universitário Norte do Espírito Santo (CEUNES/UFES).
+I like develop web system. A lover of coffee and technology.
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **More about me**
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```javascript
+
+const luizGustavoFalqueto = function (){
+  name: 'Luiz Gustavo Falqueto Baptista',
+  acknowledgements: 'Computer Science',
+  
+  let hardskills = {'HTML','CSS','JavaScript','Java','C','Python'}
+}
+
+```
 ##
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luizgfalqueto" alt="luizgfalqueto" /> </p>
 
-<div align="center">
-  <a href="https://github.com/luizgfalqueto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgfalqueto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
+## **Languages and Technologies**
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Luiz-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
- <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Luiz-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
- <img align="center" alt="Luiz-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Luiz-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
- <img align="center" alt="Luiz-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
- <img align="center" alt="Luiz-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</div>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-  
+## **Github Stats**
+
+<a href="https://github.com/luizgfalqueto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgfalqueto&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/luizgfalqueto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizgfalqueto&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+ ## Social media
  <div style="display: flex flex-directions: column background-color: #cecece" align="center"> 
-   <h2>Contact me on</h2>
   <a href="https://www.linkedin.com/in/luizfalqueto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luizgfalqueto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lgfalqueto85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
