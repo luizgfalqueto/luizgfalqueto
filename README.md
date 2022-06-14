@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Luiz Gustavo Falqueto
 #### 👨‍💻 I'm computer science student at Centro Universitário Norte do Espírito Santo (CEUNES/UFES).
-I like develop web system. A lover of coffee and technology.
+I like develop web system.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **More about me**
 
