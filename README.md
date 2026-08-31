@@ -1,55 +1,41 @@
-### 👋 Hi! I'm Luiz Gustavo Falqueto
-#### 👨‍💻 I'm computer science student at Centro Universitário Norte do Espírito Santo (CEUNES/UFES).
-I like develop web system.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizgfalqueto" alt="luizgfalqueto" /> </p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **More about me**
+* 📱 **Flutter & Dart** — Desenvolvimento de aplicações mobile multiplataforma
 
-<br>
+* 🏗️ **Arquitetura & Boas Práticas** — Clean Architecture, SOLID, MVVM, MVC e Design Patterns
 
-<div align="center">
-  <img align="center" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-</div>
+* 🔌 **Integrações** — APIs RESTful, Firebase, WebSockets e serviços em segundo plano
 
-<br>
+* 💾 **Persistência & Estado** — Riverpod, Drift, Hive, GetIt, Dio e Freezed
 
-```javascript
+* 🎓 **Formação** — Bacharel em Ciência da Computação pela UFES
 
-const luizGustavoFalqueto = function (){
-  name: 'Luiz Gustavo Falqueto Baptista',
-  acknowledgements: 'Computer Science',
-  
-  let hardskills = {'HTML','CSS','JavaScript','Java','C','Python'}
-}
+* 📊 **Atualmente estudando** — Data Science
 
-```
+* 🚀 **Interesses** — Tecnologia, arquitetura de software, performance e desenvolvimento de produtos
 
-## **Languages and Technologies**
+___
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### 🔨 Currently working and studying:
 
-## **Github Stats**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)![Riverpod](https://img.shields.io/badge/Riverpod-0B3D91?style=for-the-badge\&logo=flutter\&logoColor=white)![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)![Freezed](https://img.shields.io/badge/Freezed-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge\&logo=dart\&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-<a href="https://github.com/luizgfalqueto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgfalqueto&theme=dracula&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/luizgfalqueto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizgfalqueto&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
- ## Social media
- <div style="display: flex flex-directions: column background-color: #cecece" align="center"> 
-  <a href="https://www.linkedin.com/in/luizfalqueto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luizgfalqueto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lgfalqueto85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/luizgustavo.falquetobaptista" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/FalquetoLuiz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
-</div>
+ ### 💡 Experiences as software engineer:
+
+✅ **Languages**:
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+✅ **Frameworks and libraries**:
+
+ ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+ 
+✅ **Databases & Storage:**:
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge\&logo=dart\&logoColor=white)
+___
